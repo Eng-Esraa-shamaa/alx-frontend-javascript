@@ -1,0 +1,21 @@
+{
+  "name": "0x00-ES6_basic",
+  "version": "1.0.0",
+  "description": "0x00-ES6_basic",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "dev": "node 0-main.js" ,
+    "dev": "node 1-main.js" 
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.0",
+    "@babel/preset-env": "^7.17.0",
+    "babel-jest": "^27.5.1",
+    "eslint": "^8.4.1",
+    "jest": "^27.5.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
