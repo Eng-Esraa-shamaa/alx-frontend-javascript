@@ -2,7 +2,7 @@ export default function getFullResponseFromAPI(boolean) {
   return new Promise((resolve, reject) => {
     const object = {
       status: 200,
-      body: 'success',
+      body: 'Success',
     };
 
     if (boolean === true) {
